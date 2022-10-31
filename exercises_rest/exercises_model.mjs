@@ -56,7 +56,7 @@ const Exercise = mongoose.model("Exercise", exerciseSchema);
 }
 
 /**
- * Replace the name, reps, weight, unit, and date properties of the movie with the id value provided
+ * Replace the name, reps, weight, unit, and date properties of the exercise with the id value provided
  * @param {String} name 
  * @param {Number} reps
  * @param {Number} weight 
